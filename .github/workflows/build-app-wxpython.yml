@@ -1,5 +1,7 @@
 name: CI - Build wxPython
 
+**hi
+ 
 on:
   push:
     paths-ignore:
